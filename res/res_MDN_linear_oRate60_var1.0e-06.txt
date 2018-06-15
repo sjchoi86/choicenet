@@ -1,0 +1,5 @@
+Text name: ../res/res_MDN_linear_oRate60_var1.0e-06.txt
+[0/100000] loss:3.815(gmm:3.815+l2:0.000) bestLoss:inf
+[2000/100000] loss:1.485(gmm:1.485+l2:0.001) bestLoss:1.485
+[4000/100000] loss:1.426(gmm:1.425+l2:0.001) bestLoss:1.426
+[6000/100000] loss:1.457(gmm:1.456+l2:0.001) bestLoss:1.426
