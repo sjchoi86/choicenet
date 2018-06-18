@@ -3,7 +3,12 @@ TensorFlow Implementation of ChoiceNet on regression tasks.
 
 ### HowTo?
 - run code/main_reg_run.ipynb
-- Properly modify nWorkernWorker & maxGPU based on the working environment. (16 CPUs / 8 TESLA P40s / 96GB RAM)
+- Properly modify followings based on the working environment:
+```python
+nWorker = 16
+maxGPU  = 8
+```
+- (I was using 16 CPUs / 8 TESLA P40s / 96GB RAM.)
 
 ### Requirements
 - Python3
