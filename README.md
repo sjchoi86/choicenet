@@ -1,6 +1,5 @@
-# choicenet
-Implementation of ChoiceNet
+# ChoiceNet
+TensorFlow Implementation of ChoiceNet
 
-
-Results are summarized in [here](https://rawgit.com/sjchoi86/choicenet/master/html/reg_results.html).
-
+- Paper: [arxiv](https://arxiv.org/abs/1805.06431)
+- Summarized result: [click](https://rawgit.com/sjchoi86/choicenet/master/html/reg_results.html)
