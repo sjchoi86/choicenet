@@ -25,4 +25,4 @@ maxGPU  = 8
 - leo.brain@kakaobrain.com
 - ian.theman@kakaobrain.com
 
-### This work was done in Kakao Brain. 
+This work was done in Kakao Brain. 
