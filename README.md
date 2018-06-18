@@ -23,3 +23,6 @@ maxGPU  = 8
 ### Contact
 - sungjoon.s.choi@gmail.com
 - leo.brain@kakaobrain.com
+- ian.theman@kakaobrain.com
+
+### This work was done in Kakao Brain. 
