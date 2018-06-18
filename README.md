@@ -1,6 +1,9 @@
 # ChoiceNet
 TensorFlow Implementation of ChoiceNet on regression tasks. 
 
+### Summarized result: [click](https://rawgit.com/sjchoi86/choicenet/master/html/reg_results.html)
+### Paper: [arxiv](https://arxiv.org/abs/1805.06431)
+
 ### HowTo?
 - run code/main_reg_run.ipynb
 - Properly modify followings based on the working environment:
@@ -14,5 +17,6 @@ maxGPU  = 8
 - Python3
 - TF 1.4>= 
 
-#### Paper: [arxiv](https://arxiv.org/abs/1805.06431)
-#### Summarized result: [click](https://rawgit.com/sjchoi86/choicenet/master/html/reg_results.html)
+### Contact
+- sungjoon.s.choi@gmail.com
+- leo.brain@kakaobrain.com
