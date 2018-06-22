@@ -3,6 +3,7 @@ TensorFlow Implementation of ChoiceNet on regression tasks.
 
 ### Summarized result: 
 [Classification](https://rawgit.com/sjchoi86/choicenet/master/html/cls_results.html)
+/
 [Regression](https://rawgit.com/sjchoi86/choicenet/master/html/reg_results.html)
 
 ### Paper: [arxiv](https://arxiv.org/abs/1805.06431)
