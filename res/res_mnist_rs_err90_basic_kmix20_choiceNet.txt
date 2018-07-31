@@ -1,0 +1,12 @@
+Text name: ../res/res_mnist_rs_err90_basic_kmix20_choiceNet.txt
+[00/40] [Loss] train:0.053(f:-0.116+r:0.050+k:0.003+l:0.116) val:-0.067 test:-0.076 [Accr] train:15.9% val:66.5% test:68.1% maxVal:66.5% maxTest:68.1%
+[01/40] [Loss] train:0.045(f:-0.125+r:0.052+k:0.003+l:0.115) val:-0.154 test:-0.162 [Accr] train:17.2% val:80.0% test:80.6% maxVal:80.0% maxTest:80.6%
+[02/40] [Loss] train:0.041(f:-0.130+r:0.053+k:0.003+l:0.115) val:-0.202 test:-0.210 [Accr] train:17.8% val:86.0% test:86.4% maxVal:86.0% maxTest:86.4%
+[03/40] [Loss] train:0.038(f:-0.133+r:0.053+k:0.003+l:0.115) val:-0.233 test:-0.241 [Accr] train:18.1% val:88.7% test:88.8% maxVal:88.7% maxTest:88.8%
+[04/40] [Loss] train:0.034(f:-0.136+r:0.052+k:0.003+l:0.115) val:-0.254 test:-0.263 [Accr] train:18.3% val:90.5% test:90.7% maxVal:90.5% maxTest:90.7%
+[05/40] [Loss] train:0.032(f:-0.138+r:0.052+k:0.003+l:0.115) val:-0.273 test:-0.278 [Accr] train:18.3% val:91.6% test:91.6% maxVal:91.6% maxTest:91.6%
+[06/40] [Loss] train:0.029(f:-0.140+r:0.052+k:0.003+l:0.115) val:-0.290 test:-0.296 [Accr] train:18.4% val:92.5% test:92.7% maxVal:92.5% maxTest:92.7%
+[07/40] [Loss] train:0.027(f:-0.142+r:0.051+k:0.003+l:0.115) val:-0.301 test:-0.307 [Accr] train:18.6% val:93.0% test:93.1% maxVal:93.0% maxTest:93.1%
+[08/40] [Loss] train:0.025(f:-0.143+r:0.051+k:0.003+l:0.114) val:-0.310 test:-0.316 [Accr] train:18.6% val:93.4% test:93.5% maxVal:93.4% maxTest:93.5%
+[09/40] [Loss] train:0.023(f:-0.144+r:0.050+k:0.003+l:0.114) val:-0.319 test:-0.324 [Accr] train:18.6% val:93.8% test:93.8% maxVal:93.8% maxTest:93.8%
+[10/40] [Loss] train:0.021(f:-0.145+r:0.049+k:0.003+l:0.114) val:-0.326 test:-0.332 [Accr] train:18.7% val:94.1% test:94.2% maxVal:94.1% maxTest:94.2%
